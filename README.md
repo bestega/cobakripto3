@@ -13,7 +13,8 @@ Membuat pasangan kunci:
 
 ### 2. Enkripsi
 Mengubah plaintext menjadi ciphertext menggunakan Public Key.
+![Screenshot](enkripsi.png)
 
 ### 3. Dekripsi
 Mengubah ciphertext kembali menjadi plaintext menggunakan Private Key.
-
+![Screenshot](deskripsi.png)
