@@ -18,3 +18,6 @@ Mengubah plaintext menjadi ciphertext menggunakan Public Key.
 ### 3. Dekripsi
 Mengubah ciphertext kembali menjadi plaintext menggunakan Private Key.
 ![Screenshot](deskripsi.png)
+
+## Nama : Nuradinda Eltaufiq
+## NIM  : 252220090
